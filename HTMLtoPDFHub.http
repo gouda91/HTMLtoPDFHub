@@ -1,0 +1,6 @@
+@HTMLtoPDFHub_HostAddress = http://localhost:5277
+
+GET {{HTMLtoPDFHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
